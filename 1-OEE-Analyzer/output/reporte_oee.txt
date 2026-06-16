@@ -1,0 +1,54 @@
+======================================================================
+REPORTE OEE - ANÁLISIS DE EFICIENCIA DE PRODUCCIÓN
+======================================================================
+
+LINEA: Línea A
+----------------------------------------------------------------------
+
+  Disponibilidad (Promedio):   89.1%
+  Rendimiento (Promedio):      97.7%
+  Calidad (Promedio):          99.1%
+  ─────────────────────────────────────
+  OEE TOTAL (Promedio):       86.26%
+
+  Detalle por turno:
+    2026-06-16 | OEE:  83.71% | Sigma: 4.4 (BUENO)
+    2026-06-17 | OEE:  88.81% | Sigma: 4.6 (BUENO)
+
+
+LINEA: Línea B
+----------------------------------------------------------------------
+
+  Disponibilidad (Promedio):   78.1%
+  Rendimiento (Promedio):      94.0%
+  Calidad (Promedio):          98.8%
+  ─────────────────────────────────────
+  OEE TOTAL (Promedio):       72.55%
+
+  Detalle por turno:
+    2026-06-16 | OEE:  69.00% | Sigma: 4.2 (BUENO)
+    2026-06-17 | OEE:  76.10% | Sigma: 4.4 (BUENO)
+
+
+LINEA: Línea C
+----------------------------------------------------------------------
+
+  Disponibilidad (Promedio):   94.3%
+  Rendimiento (Promedio):     101.7%
+  Calidad (Promedio):          99.3%
+  ─────────────────────────────────────
+  OEE TOTAL (Promedio):       95.22%
+
+  Detalle por turno:
+    2026-06-16 | OEE:  94.38% | Sigma: 4.6 (BUENO)
+    2026-06-17 | OEE:  96.06% | Sigma: 4.6 (BUENO)
+
+
+======================================================================
+RESUMEN GENERAL
+======================================================================
+OEE Promedio (Todas las lineas): 84.68%
+Sigma Promedio:                  4.5
+
+Clasificacion OEE: BUENO
+======================================================================

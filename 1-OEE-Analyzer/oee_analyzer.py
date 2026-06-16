@@ -49,7 +49,7 @@ def leer_datos_produccion():
     Retorna:
         list: Lista de diccionarios con datos de cada turno
     """
-    print(f"📖 Leyendo datos desde: {ARCHIVO_ENTRADA}")
+    print(f"[LEYENDO] Datos desde: {ARCHIVO_ENTRADA}")
 
     datos = []
     try:
@@ -70,13 +70,13 @@ def leer_datos_produccion():
                 datos.append(fila_convertida)
 
     except FileNotFoundError:
-        print(f"❌ ERROR: No se encontró el archivo {ARCHIVO_ENTRADA}")
+        print(f"[ERROR] No se encontró el archivo {ARCHIVO_ENTRADA}")
         sys.exit(1)
     except Exception as e:
-        print(f"❌ ERROR leyendo archivo: {e}")
+        print(f"[ERROR] Leyendo archivo: {e}")
         sys.exit(1)
 
-    print(f"✅ Se leyeron {len(datos)} registros")
+    print(f"[OK] Se leyeron {len(datos)} registros")
     return datos
 
 
@@ -89,7 +89,7 @@ def analizar_datos(datos):
     Retorna:
         list: Lista de diccionarios con resultados del análisis
     """
-    print(f"\n⚙️  Analizando datos...")
+    print(f"\n[ANALIZANDO] Datos...")
 
     resultados = []
 
@@ -146,10 +146,10 @@ def analizar_datos(datos):
             resultados.append(resultado)
 
         except Exception as e:
-            print(f"⚠️  Error analizando {linea} ({fecha}): {e}")
+            print(f"[ADVERTENCIA] Error analizando {linea} ({fecha}): {e}")
             continue
 
-    print(f"✅ Se analizaron {len(resultados)} registros")
+    print(f"[OK] Se analizaron {len(resultados)} registros")
     return resultados
 
 
@@ -159,7 +159,7 @@ def generar_reporte(resultados):
     Parámetros:
         resultados (list): Lista de diccionarios con análisis
     """
-    print(f"\n📝 Generando reporte...")
+    print(f"\n[GENERANDO] Reporte...")
 
     reporte = []
     reporte.append("=" * 70)
@@ -177,7 +177,7 @@ def generar_reporte(resultados):
 
     # Análisis por línea
     for linea, datos_linea in sorted(lineas_unicas.items()):
-        reporte.append(f"LÍNEA: {linea}")
+        reporte.append(f"LINEA: {linea}")
         reporte.append("-" * 70)
         reporte.append("")
 
@@ -211,7 +211,7 @@ def generar_reporte(resultados):
     oee_general = sum(r['oee'] for r in resultados) / len(resultados)
     sigma_general = sum(r['sigma_nivel'] for r in resultados) / len(resultados)
 
-    reporte.append(f"OEE Promedio (Todas las líneas): {oee_general:.2f}%")
+    reporte.append(f"OEE Promedio (Todas las lineas): {oee_general:.2f}%")
     reporte.append(f"Sigma Promedio:                  {sigma_general:.1f}")
     reporte.append("")
 
@@ -225,7 +225,7 @@ def generar_reporte(resultados):
     else:
         clase_oee = "POBRE - REQUIERE MEJORA"
 
-    reporte.append(f"Clasificación OEE: {clase_oee}")
+    reporte.append(f"Clasificacion OEE: {clase_oee}")
     reporte.append("=" * 70)
 
     # Guardar reporte
@@ -234,9 +234,9 @@ def generar_reporte(resultados):
     try:
         with open(ARCHIVO_SALIDA, 'w', encoding='utf-8') as archivo:
             archivo.write(contenido_reporte)
-        print(f"✅ Reporte guardado en: {ARCHIVO_SALIDA}")
+        print(f"[OK] Reporte guardado en: {ARCHIVO_SALIDA}")
     except Exception as e:
-        print(f"❌ Error guardando reporte: {e}")
+        print(f"[ERROR] Guardando reporte: {e}")
         return
 
     # Mostrar reporte en pantalla
@@ -250,7 +250,7 @@ def generar_reporte(resultados):
 def main():
     """Función principal que orquesta todo."""
     print("\n" + "=" * 70)
-    print("🏭 OEE ANALYZER - PROYECTO 1")
+    print("OEE ANALYZER - PROYECTO 1")
     print("=" * 70 + "\n")
 
     # Paso 1: Leer datos
@@ -262,7 +262,7 @@ def main():
     # Paso 3: Generar reporte
     generar_reporte(resultados)
 
-    print("\n✅ ¡ANÁLISIS COMPLETADO!")
+    print("\n[COMPLETADO] Análisis finalizado!")
     print("=" * 70 + "\n")
 
 
