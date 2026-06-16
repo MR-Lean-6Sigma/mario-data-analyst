@@ -168,12 +168,12 @@ def calcular_sigma_nivel(dpmo):
     """Calcula el Nivel Sigma basado en DPMO.
 
     Tabla de referencia Sigma:
-        - 1 Sigma: 308,537 DPMO (69.15% bueno)
-        - 2 Sigma: 66,807 DPMO (95.45% bueno)
-        - 3 Sigma: 6,210 DPMO (99.73% bueno)
-        - 4 Sigma: 233 DPMO (99.9937% bueno)
-        - 5 Sigma: 3.4 DPMO (99.99966% bueno)
-        - 6 Sigma: 0.002 DPMO (99.9999998% bueno)
+        - 1 Sigma: 308,537 DPMO (69.15% bueno / 30.85% defectos) - INACEPTABLE
+        - 2 Sigma: 66,807 DPMO (95.45% bueno / 4.55% defectos) - POBRE
+        - 3 Sigma: 6,210 DPMO (99.73% bueno / 0.27% defectos) - ACEPTABLE
+        - 4 Sigma: 233 DPMO (99.9937% bueno / 0.0063% defectos) - BUENO
+        - 5 Sigma: 3.4 DPMO (99.99966% bueno / 0.00034% defectos) - EXCELENTE
+        - 6 Sigma: 0.002 DPMO (99.9999998% bueno / 0.0000002% defectos) - WORLD CLASS
 
     Parámetros:
         dpmo (float): Defectos por millón de oportunidades
