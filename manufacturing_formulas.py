@@ -266,7 +266,7 @@ def calcular_cp(lse, lie, sigma):
 
 
 def calcular_cpk(lse, lie, media, sigma):
-    \"\"\"Calcula Cpk (Capacidad del Proceso considerando el centrado).
+    """Calcula Cpk (Capacidad del Proceso considerando el centrado).
 
     Cpk es como Cp pero también considera si el proceso está centrado.
     Es más realista que Cp solo.
@@ -286,7 +286,7 @@ def calcular_cpk(lse, lie, media, sigma):
     Ejemplo:
         >>> calcular_cpk(110, 90, 100, 5)
         0.667
-    \"\"\"
+    """
     if sigma == 0:
         raise ValueError("sigma no puede ser 0")
 
