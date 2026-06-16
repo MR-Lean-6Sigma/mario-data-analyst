@@ -1,0 +1,7 @@
+fecha,linea,tiempo_total_min,tiempo_parada_min,piezas_producidas,piezas_esperadas,piezas_buenas,defectos
+2026-06-16,Línea A,480,60,1450,1500,1435,15
+2026-06-16,Línea B,480,120,1400,1500,1380,20
+2026-06-16,Línea C,480,30,1520,1500,1510,10
+2026-06-17,Línea A,480,45,1480,1500,1470,10
+2026-06-17,Línea B,480,90,1420,1500,1405,15
+2026-06-17,Línea C,480,25,1530,1500,1520,10
