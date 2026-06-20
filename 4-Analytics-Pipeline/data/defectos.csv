@@ -1,0 +1,16 @@
+fecha,linea,defectos_totales,defectos_retrabajados,defectos_scrap,tipo_defecto_principal,costo_retrabajo
+2026-06-16,Línea A,3,2,1,Dimensión incorrecta,150.00
+2026-06-17,Línea A,2,1,1,Acabado defectuoso,100.00
+2026-06-18,Línea A,4,2,2,Ensamble incorrecto,200.00
+2026-06-19,Línea A,2,2,0,Dimensión incorrecta,100.00
+2026-06-20,Línea A,3,1,2,Acabado defectuoso,150.00
+2026-06-16,Línea B,7,4,3,Ensamble incorrecto,350.00
+2026-06-17,Línea B,10,6,4,Acabado defectuoso,500.00
+2026-06-18,Línea B,13,7,6,Dimensión incorrecta,650.00
+2026-06-19,Línea B,11,6,5,Ensamble incorrecto,550.00
+2026-06-20,Línea B,15,8,7,Acabado defectuoso,750.00
+2026-06-16,Línea C,2,1,1,Acabado defectuoso,100.00
+2026-06-17,Línea C,1,1,0,Dimensión incorrecta,50.00
+2026-06-18,Línea C,2,1,1,Ensamble incorrecto,100.00
+2026-06-19,Línea C,1,0,1,Acabado defectuoso,50.00
+2026-06-20,Línea C,2,2,0,Dimensión incorrecta,100.00

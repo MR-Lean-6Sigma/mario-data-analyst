@@ -1,0 +1,14 @@
+================================================================================
+REPORTE EJECUTIVO - ANALYTICS PIPELINE
+================================================================================
+
+OEE PROMEDIO GLOBAL: 83.0%
+DEFECTOS TOTALES: 78
+COSTO TOTAL: $ 12,360.00
+
+ESTADO POR LINEA:
+  Línea A: OEE  85.4% (EXCELENTE) - Defectos: 14 - Costo: $  2,400.00
+  Línea B: OEE  69.8% (ACEPTABLE) - Defectos: 56 - Costo: $  9,000.00
+  Línea C: OEE  93.6% (EXCELENTE) - Defectos: 8 - Costo: $    960.00
+
+================================================================================

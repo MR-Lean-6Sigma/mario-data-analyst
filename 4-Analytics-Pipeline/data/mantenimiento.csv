@@ -1,0 +1,16 @@
+fecha,linea,tipo_mantenimiento,tiempo_parada_min,costo,causa
+2026-06-16,Línea A,Preventivo,30,200.00,Lubricación programada
+2026-06-16,Línea A,Correctivo,20,500.00,Correa desgastada
+2026-06-17,Línea A,Preventivo,25,150.00,Inspección general
+2026-06-18,Línea A,Correctivo,35,700.00,Motor sobrecalentado
+2026-06-19,Línea A,Preventivo,20,150.00,Cambio de aceite
+2026-06-16,Línea B,Correctivo,60,1200.00,Fallo de sensor
+2026-06-17,Línea B,Correctivo,45,800.00,Problema de alimentación
+2026-06-18,Línea B,Correctivo,70,1500.00,Eje doblado
+2026-06-19,Línea B,Correctivo,50,900.00,Fallo de motor
+2026-06-20,Línea B,Correctivo,75,1800.00,Cambio de componente mayor
+2026-06-16,Línea C,Preventivo,15,100.00,Lubricación
+2026-06-17,Línea C,Preventivo,10,80.00,Inspección visual
+2026-06-18,Línea C,Preventivo,20,150.00,Cambio de filtro
+2026-06-19,Línea C,Preventivo,12,90.00,Verificación calibración
+2026-06-20,Línea C,Preventivo,18,140.00,Lubricación

@@ -1,0 +1,104 @@
+==========================================================================================
+REPORTE DETALLADO - ANÁLISIS COMPLETO DE PRODUCCIÓN
+==========================================================================================
+
+LINEA: Línea A
+------------------------------------------------------------------------------------------
+
+INDICADORES PRINCIPALES:
+  Estado General:              EXCELENTE
+  OEE Promedio:                 85.40%  (Desv: 4.17%)
+  Disponibilidad Promedio:      89.58%
+  Rendimiento Promedio:         95.90%
+  Calidad Promedio:             99.37%
+
+ANÁLISIS DE CALIDAD:
+  Total Piezas Producidas:       2235
+  Total Defectos:                  14
+  Defect Rate Promedio:          0.63%
+  Defecto Tipo Principal:      Dimensión incorrecta
+
+ANÁLISIS DE MANTENIMIENTO:
+  Horas Parada Total:             250 min (4.2 horas)
+  MTBF (Mean Time Between Failures):   1200 min
+  MTTR (Mean Time To Repair):      65 min
+
+ANÁLISIS FINANCIERO:
+  Costo Total del Período:     $   2,400.00
+  Costo Promedio por Día:      $     480.00
+
+DETALLE DIARIO:
+  2026-06-16: OEE  86.1% - Defectos:  3 - Costo: $  850.00
+  2026-06-17: OEE  87.3% - Defectos:  2 - Costo: $  250.00
+  2026-06-18: OEE  79.1% - Defectos:  4 - Costo: $  900.00
+  2026-06-19: OEE  90.3% - Defectos:  2 - Costo: $  250.00
+  2026-06-20: OEE  84.1% - Defectos:  3 - Costo: $  150.00
+
+
+LINEA: Línea B
+------------------------------------------------------------------------------------------
+
+INDICADORES PRINCIPALES:
+  Estado General:              ACEPTABLE
+  OEE Promedio:                 69.82%  (Desv: 4.96%)
+  Disponibilidad Promedio:      78.75%
+  Rendimiento Promedio:         91.34%
+  Calidad Promedio:             96.95%
+
+ANÁLISIS DE CALIDAD:
+  Total Piezas Producidas:       1870
+  Total Defectos:                  56
+  Defect Rate Promedio:          3.05%
+  Defecto Tipo Principal:      Ensamble incorrecto
+
+ANÁLISIS DE MANTENIMIENTO:
+  Horas Parada Total:             510 min (8.5 horas)
+  MTBF (Mean Time Between Failures):    480 min
+  MTTR (Mean Time To Repair):      60 min
+
+ANÁLISIS FINANCIERO:
+  Costo Total del Período:     $   9,000.00
+  Costo Promedio por Día:      $   1,800.00
+
+DETALLE DIARIO:
+  2026-06-16: OEE  72.0% - Defectos:  7 - Costo: $1,550.00
+  2026-06-17: OEE  72.6% - Defectos: 10 - Costo: $1,300.00
+  2026-06-18: OEE  67.7% - Defectos: 13 - Costo: $2,150.00
+  2026-06-19: OEE  74.6% - Defectos: 11 - Costo: $1,450.00
+  2026-06-20: OEE  62.2% - Defectos: 15 - Costo: $2,550.00
+
+
+LINEA: Línea C
+------------------------------------------------------------------------------------------
+
+INDICADORES PRINCIPALES:
+  Estado General:              EXCELENTE
+  OEE Promedio:                 93.63%  (Desv: 1.72%)
+  Disponibilidad Promedio:      95.33%
+  Rendimiento Promedio:         98.49%
+  Calidad Promedio:             99.71%
+
+ANÁLISIS DE CALIDAD:
+  Total Piezas Producidas:       2420
+  Total Defectos:                   8
+  Defect Rate Promedio:          0.33%
+  Defecto Tipo Principal:      Acabado defectuoso
+
+ANÁLISIS DE MANTENIMIENTO:
+  Horas Parada Total:             112 min (1.9 horas)
+  MTBF (Mean Time Between Failures):      0 min
+  MTTR (Mean Time To Repair):       0 min
+
+ANÁLISIS FINANCIERO:
+  Costo Total del Período:     $     960.00
+  Costo Promedio por Día:      $     192.00
+
+DETALLE DIARIO:
+  2026-06-16: OEE  92.5% - Defectos:  2 - Costo: $  200.00
+  2026-06-17: OEE  94.7% - Defectos:  1 - Costo: $  130.00
+  2026-06-18: OEE  91.4% - Defectos:  2 - Costo: $  250.00
+  2026-06-19: OEE  95.7% - Defectos:  1 - Costo: $  140.00
+  2026-06-20: OEE  93.9% - Defectos:  2 - Costo: $  240.00
+
+
+==========================================================================================

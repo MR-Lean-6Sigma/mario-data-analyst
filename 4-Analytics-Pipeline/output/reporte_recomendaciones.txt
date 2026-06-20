@@ -1,0 +1,24 @@
+==========================================================================================
+RECOMENDACIONES DE MEJORA - PRIORIZADO POR ROI
+==========================================================================================
+
+Total Oportunidades Identificadas: 4
+Ahorro Potencial Total: $ 7,650.00
+
+1. [ALTA] Línea B - DEFECTOS
+   Reducir defectos de 3.05% al 1% (Enfoque: Ensamble incorrecto)
+   Ahorro Potencial: $ 2,800.00
+
+2. [MEDIA] Línea B - MANT_PREVENTIVO
+   Aumentar mantenimiento preventivo (Eventos correctivos: 5)
+   Ahorro Potencial: $ 2,500.00
+
+3. [ALTA] Línea B - OEE
+   Mejorar OEE de 69.8% a 85%+
+   Ahorro Potencial: $ 1,350.00
+
+4. [MEDIA] Línea A - MANT_PREVENTIVO
+   Aumentar mantenimiento preventivo (Eventos correctivos: 2)
+   Ahorro Potencial: $ 1,000.00
+
+==========================================================================================
