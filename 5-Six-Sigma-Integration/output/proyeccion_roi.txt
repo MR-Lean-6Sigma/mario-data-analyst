@@ -1,0 +1,59 @@
+==========================================================================================
+PROYECCIÓN DE ROI - ANÁLISIS FINANCIERO
+==========================================================================================
+
+TIMELINE DE PROYECTO:
+
+  Semana 1-2: Definir y Medir
+  Semana 3-4: Analizar e Implementar Mejoras
+  Semana 5-8: Monitorear y Validar Resultados
+  Mes 3+: Sostener y Optimizar
+
+ANÁLISIS DE COSTOS:
+
+  Realinear jig de fijación: $800.00
+  Cambiar abrasivo y revisar presión: $400.00
+  Recalibrar máquina y crear checklist: $600.00
+  Implementar plan de mantenimiento preventivo: $500.00
+  TOTAL IMPLEMENTACIÓN: $2,300.00
+
+ANÁLISIS DE BENEFICIOS:
+
+  Realinear jig de fijación: $550.00/mes
+  Cambiar abrasivo y revisar presión: $480.00/mes
+  Recalibrar máquina y crear checklist: $450.00/mes
+  Implementar plan de mantenimiento preventivo: $510.00/mes
+  TOTAL MENSUAL: $1,990.00
+  TOTAL ANUAL (Año 1): $23,880.00
+
+CÁLCULO DE ROI:
+
+  Ahorro Anual: $23,880.00
+  Menos Inversión: $2,300.00
+  Beneficio Neto (Año 1): $21,580.00
+  ROI Año 1: 938.3%
+  Payback Period: 1.2 meses
+
+PROYECCIÓN 3 AÑOS:
+
+  Año 1: $21,580.00 (ROI: 938.3%)
+  Año 2: $45,460.00 (ROI: 1976.5%)
+  Año 3: $69,340.00 (ROI: 3014.8%)
+
+SUPUESTOS Y RIESGOS:
+
+  SUPUESTOS:
+    - Tasa de defectos mejora según proyección
+    - Costo unitario de defecto permanece constante
+    - Volumen de producción constante
+    - Mejoras se sostienen después de implementación
+
+  RIESGOS:
+    - BAJO: Riesgos técnicos de implementación son bajos
+    - BAJO: Cambio organizacional bien definido
+    - BAJO: Soluciones probadas en otras líneas
+
+==========================================================================================
+CONCLUSIÓN: Proyecto con ROI de 938.3% y payback de 1.2 meses
+es FINANCIERAMENTE VIABLE y altamente recomendado para implementación.
+==========================================================================================

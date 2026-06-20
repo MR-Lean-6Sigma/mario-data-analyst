@@ -1,0 +1,31 @@
+==========================================================================================
+ANÁLISIS DE PARETO - ROOT CAUSE ANALYSIS
+==========================================================================================
+
+El Principio de Pareto (80/20): 80% de los problemas vienen de 20% de las causas
+
+RANKING POR CANTIDAD DE DEFECTOS:
+
+Tipo Defecto                   Cantidad      %  Acum% Estado         
+------------------------------------------------------------------------------------------
+Ensamble incorrecto                  18   32.1%   32.1% VITAL          
+Acabado defectuoso                   16   28.6%   60.7% VITAL          
+Dimensión incorrecta                 14   25.0%   85.7% TRIVIAL        
+Otros                                 8   14.3%  100.0% TRIVIAL        
+
+RANKING POR IMPACTO FINANCIERO:
+
+Tipo Defecto                      Impacto $      %  Acum% Estado         
+------------------------------------------------------------------------------------------
+Ensamble incorrecto            $     900.00   36.7%   36.7% VITAL          
+Acabado defectuoso             $     640.00   26.1%   62.9% VITAL          
+Dimensión incorrecta           $     630.00   25.7%   88.6% TRIVIAL        
+Otros                          $     280.00   11.4%  100.0% TRIVIAL        
+
+CONCLUSIONES:
+  1. 3 tipos de defecto (Ensamble, Acabado, Dimensión) representan 85.7% del volumen
+  2. Los 2 primeros tipos representan 60.7% del problema
+  3. Enfoque en estos 2-3 tipos eliminará 80% del impacto
+  4. Estrategia 80/20 permite maximizar ROI focalizando en pocas causas
+
+==========================================================================================

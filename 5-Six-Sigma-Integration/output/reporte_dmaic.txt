@@ -1,0 +1,164 @@
+====================================================================================================
+PROYECTO SIX SIGMA - METODOLOGÍA DMAIC
+====================================================================================================
+
+FASE 1: DEFINE (Definir el Problema)
+----------------------------------------------------------------------------------------------------
+
+Proyecto: Reducir Defectos en Línea B
+Owner: Mario Romero (Green Belt)
+Período: 2026-06-16 a 2026-08-31
+Problema: Línea B presenta tasa de defectos de 3.05%, causando costos de retrabajo y pérdida de producción
+
+OBJETIVOS DEL PROYECTO:
+  - Reducir defect rate de 3.05% a 1.0% o menos
+  - Mejorar Sigma Level de 3.2 a 4.0
+  - Ahorrar $24,000.00 anuales
+
+SCOPE DEL PROYECTO:
+  - Línea B de producción
+  - Todas las categorías de defectos
+  - Período de medición: 5 días
+
+
+FASE 2: MEASURE (Medir Baseline)
+----------------------------------------------------------------------------------------------------
+
+DATOS BASELINE (16-20 Junio 2026):
+  Período de Medición: 16-20 Jun 2026
+  Piezas Producidas: 1,870
+  Defectos Totales: 56
+  Defect Rate: 3.05%
+  DPMO (Defects Per Million Opportunities): 30,500
+  Sigma Level: 3.2
+  Costo de Defectos: $2,800.00
+  Costo de Mantenimiento: $5,200.00
+  Costo Total Línea B: $8,000.00
+
+SISTEMA DE MEDICIÓN:
+  - Inspección 100% al final de línea
+  - Registro diario de defectos por tipo
+  - Cálculo de DPMO y Sigma nivel automático
+  - Validación de datos por supervisor
+
+
+FASE 3: ANALYZE (Analizar Causas Raíz)
+----------------------------------------------------------------------------------------------------
+
+ANÁLISIS DE PARETO (80/20 Rule):
+
+Ensamble incorrecto:
+  Cantidad: 18 defectos (32.1%)
+  Acumulado: 18 (32.1%)
+  Costo Promedio por Defecto: $50.00
+  Causa Raíz Identificada: Jig de fijación desalineado, entrenamiento insuficiente del operario
+
+Acabado defectuoso:
+  Cantidad: 16 defectos (28.6%)
+  Acumulado: 34 (60.7%)
+  Costo Promedio por Defecto: $40.00
+  Causa Raíz Identificada: Abrasivo desgastado, presión de contacto inconsistente
+
+Dimensión incorrecta:
+  Cantidad: 14 defectos (25.0%)
+  Acumulado: 48 (85.7%)
+  Costo Promedio por Defecto: $45.00
+  Causa Raíz Identificada: Calibración de máquina fuera de rango, falta de verificación entre piezas
+
+Otros:
+  Cantidad: 8 defectos (14.3%)
+  Acumulado: 56 (100.0%)
+  Costo Promedio por Defecto: $35.00
+  Causa Raíz Identificada: Variación de materiales, ambiente de producción (temperatura/humedad)
+
+CONCLUSIONES DEL ANÁLISIS:
+  - 3 tipos de defecto representan 85.7% del total (Ensamble, Acabado, Dimensión)
+  - Top 2 defectos (Ensamble + Acabado) = 60.7% del problema
+  - Enfoque: 20% de causas generan 80% del impacto
+  - Estrategia: Enfocarse en Ensamble (32.1%) y Acabado (28.6%)
+
+
+FASE 4: IMPROVE (Proponer Mejoras)
+----------------------------------------------------------------------------------------------------
+
+SOLUCIONES PROPUESTAS Y ANÁLISIS:
+
+1. REALINEAR JIG DE FIJACIÓN
+   Objetivo: Ensamble incorrecto
+   Reducción Esperada: 60%
+   Defectos Evitados: 11
+   Ahorro Esperado: $550.00
+   Costo de Implementación: $800.00
+   Tiempo de Implementación: 3 días
+
+2. CAMBIAR ABRASIVO Y REVISAR PRESIÓN
+   Objetivo: Acabado defectuoso
+   Reducción Esperada: 75%
+   Defectos Evitados: 12
+   Ahorro Esperado: $480.00
+   Costo de Implementación: $400.00
+   Tiempo de Implementación: 2 días
+
+3. RECALIBRAR MÁQUINA Y CREAR CHECKLIST
+   Objetivo: Dimensión incorrecta
+   Reducción Esperada: 70%
+   Defectos Evitados: 10
+   Ahorro Esperado: $450.00
+   Costo de Implementación: $600.00
+   Tiempo de Implementación: 2 días
+
+4. IMPLEMENTAR PLAN DE MANTENIMIENTO PREVENTIVO
+   Objetivo: Todos
+   Reducción Esperada: 30%
+   Defectos Evitados: 17
+   Ahorro Esperado: $510.00
+   Costo de Implementación: $500.00
+   Tiempo de Implementación: 1 semana
+
+RESUMEN DE INVERSIÓN Y RETORNO:
+  Costo Total de Implementación: $2,300.00
+  Ahorro Esperado (Mensual): $1,990.00
+  Ahorro Esperado (Anual): $23,880.00
+  ROI Esperado: 938.3%
+  Payback Period: 1.2 meses
+
+
+FASE 5: CONTROL (Monitorear y Sostener)
+----------------------------------------------------------------------------------------------------
+
+PROYECCIÓN POST-MEJORA:
+  Piezas Producidas (esperado): 1,870
+  Defectos Estimados: 16
+  Defect Rate Estimada: 0.85%
+  Sigma Level Estimado: 4.1
+  DPMO Estimado: 8,500
+
+MEJORA EN COSTOS:
+  Costo Actual (Mensual): $1,600.00
+  Costo Estimado (Mensual): $1,200.00
+  Ahorro (Mensual): $400.00
+  Ahorro (Anual): $24,000.00
+
+PLAN DE CONTROL:
+  - Mantener inspección 100% durante 4 semanas
+  - Muestreo de 5% después de 4 semanas si mejora se sostiene
+  - Auditoría mensual de proceso
+  - Re-entrenamiento trimestral de operarios
+  - Mantenimiento preventivo según schedule
+
+
+====================================================================================================
+CONCLUSIÓN Y RECOMENDACIÓN
+====================================================================================================
+
+Este proyecto Six Sigma propone inversión de $2,300.00 para generar
+un ahorro anual de $23,880.00, con ROI de 938.3%.
+
+Payback period de 1.2 meses es aceptable para implementación inmediata.
+
+RECOMENDACIÓN: APROBAR PARA IMPLEMENTACIÓN INMEDIATA
+
+El proyecto representa una oportunidad clara de mejora con impacto financiero
+significativo y bajo riesgo de implementación.
+
+====================================================================================================
