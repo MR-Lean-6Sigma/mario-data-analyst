@@ -39,15 +39,15 @@ Track 6 Sigma project progress with DPMO, sigma levels, and ROI calculations.
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python 3.14
+- **Languages:** Python 3.14, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, VSCode, Power BI
+- **Tools:** Jupyter Notebook, VSCode, Power BI, BigQuery
 - **Methodology:** Lean, 6 Sigma, DMAIC
 
 ## 📚 Learning Path
 
 Currently completing **Google Data Analytics Certificate - Module 7 (Python)**
-
+Comig soon **Certificado Profesional de IBM Generative AI Engineering**
 ---
 
 **Last Updated:** June 16, 2026  

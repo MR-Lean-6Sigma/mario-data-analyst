@@ -1,0 +1,17 @@
+linea,fecha,tipo_desperdicio,cantidad_unidades,horas_perdidas,costo_unitario
+Línea A,2026-06-16,Overproduction,150,1.5,25.00
+Línea A,2026-06-16,Defects,45,2.0,15.00
+Línea A,2026-06-16,Waiting,0,1.0,50.00
+Línea B,2026-06-16,Inventory,200,2.5,10.00
+Línea B,2026-06-16,Motion,0,0.5,30.00
+Línea B,2026-06-16,Transport,75,1.0,20.00
+Línea C,2026-06-16,Over-processing,60,1.2,35.00
+Línea C,2026-06-16,Talent,0,0.0,0.00
+Línea A,2026-06-17,Overproduction,120,1.2,25.00
+Línea A,2026-06-17,Defects,30,1.5,15.00
+Línea A,2026-06-17,Waiting,0,0.8,50.00
+Línea B,2026-06-17,Inventory,180,2.2,10.00
+Línea B,2026-06-17,Motion,0,0.3,30.00
+Línea B,2026-06-17,Transport,55,0.8,20.00
+Línea C,2026-06-17,Over-processing,50,1.0,35.00
+Línea C,2026-06-17,Talent,0,0.0,0.00

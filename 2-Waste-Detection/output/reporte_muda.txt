@@ -1,0 +1,209 @@
+================================================================================
+REPORTE MUDA - ANÁLISIS DE DESPERDICIO EN PROCESOS
+================================================================================
+
+PARTE I: ANÁLISIS POR LÍNEA DE PRODUCCIÓN
+--------------------------------------------------------------------------------
+
+LINEA: Línea A
+--------------------------------------------------------------------------------
+
+  RESUMEN DE LA LINEA:
+    Total Unidades Desperdiciadas:    345 unidades
+    Total Horas Perdidas:             8.0 horas
+    Costo Total Desperdicio:       $   7,875.00
+    Costo Promedio por Hora:       $     984.38
+
+  DESPERDICIO POR TIPO:
+
+    Defects:
+      Unidades:            75 unidades
+      Horas Perdidas:     3.5 horas
+      Costo:           $   1,125.00
+      % del Total:       14.3%
+
+    Overproduction:
+      Unidades:           270 unidades
+      Horas Perdidas:     2.7 horas
+      Costo:           $   6,750.00
+      % del Total:       85.7%
+
+    Waiting:
+      Unidades:             0 unidades
+      Horas Perdidas:     1.8 horas
+      Costo:           $       0.00
+      % del Total:        0.0%
+
+
+LINEA: Línea B
+--------------------------------------------------------------------------------
+
+  RESUMEN DE LA LINEA:
+    Total Unidades Desperdiciadas:    510 unidades
+    Total Horas Perdidas:             7.3 horas
+    Costo Total Desperdicio:       $   6,400.00
+    Costo Promedio por Hora:       $     876.71
+
+  DESPERDICIO POR TIPO:
+
+    Inventory:
+      Unidades:           380 unidades
+      Horas Perdidas:     4.7 horas
+      Costo:           $   3,800.00
+      % del Total:       59.4%
+
+    Motion:
+      Unidades:             0 unidades
+      Horas Perdidas:     0.8 horas
+      Costo:           $       0.00
+      % del Total:        0.0%
+
+    Transport:
+      Unidades:           130 unidades
+      Horas Perdidas:     1.8 horas
+      Costo:           $   2,600.00
+      % del Total:       40.6%
+
+
+LINEA: Línea C
+--------------------------------------------------------------------------------
+
+  RESUMEN DE LA LINEA:
+    Total Unidades Desperdiciadas:    110 unidades
+    Total Horas Perdidas:             2.2 horas
+    Costo Total Desperdicio:       $   3,850.00
+    Costo Promedio por Hora:       $   1,750.00
+
+  DESPERDICIO POR TIPO:
+
+    Over-processing:
+      Unidades:           110 unidades
+      Horas Perdidas:     2.2 horas
+      Costo:           $   3,850.00
+      % del Total:      100.0%
+
+    Talent:
+      Unidades:             0 unidades
+      Horas Perdidas:     0.0 horas
+      Costo:           $       0.00
+      % del Total:        0.0%
+
+
+PARTE II: ANÁLISIS GLOBAL POR TIPO DE DESPERDICIO (8 TIPOS DE MUDA)
+--------------------------------------------------------------------------------
+
+MUDA #1: SOBREPRODUCCION
+Descripcion: Producir mas de lo necesario o antes de ser solicitado
+Impacto: Exceso de inventario, incremento de espacio, costos de almacenamiento
+
+  Estadisticas:
+    Unidades Desperdiciadas:     270 unidades
+    Horas Perdidas:              2.7 horas
+    Costo Total:              $   6,750.00
+    % del Total Global:         37.2%
+    Lineas Afectadas:         Línea A
+
+MUDA #6: SOBRE-PROCESAMIENTO
+Descripcion: Pasos innecesarios, especificaciones excesivas, features no requeridas
+Impacto: Tiempo perdido, costo adicional, complejidad innecesaria
+
+  Estadisticas:
+    Unidades Desperdiciadas:     110 unidades
+    Horas Perdidas:              2.2 horas
+    Costo Total:              $   3,850.00
+    % del Total Global:         21.2%
+    Lineas Afectadas:         Línea C
+
+MUDA #2: INVENTARIO
+Descripcion: Exceso de stock o Work-In-Progress (WIP)
+Impacto: Capital inmovilizado, riesgo de obsolescencia, costos de manejo
+
+  Estadisticas:
+    Unidades Desperdiciadas:     380 unidades
+    Horas Perdidas:              4.7 horas
+    Costo Total:              $   3,800.00
+    % del Total Global:         21.0%
+    Lineas Afectadas:         Línea B
+
+MUDA #5: TRANSPORTE
+Descripcion: Movimiento innecesario de materiales entre procesos
+Impacto: Riesgo de danio, consumo de energia, costo de manejo
+
+  Estadisticas:
+    Unidades Desperdiciadas:     130 unidades
+    Horas Perdidas:              1.8 horas
+    Costo Total:              $   2,600.00
+    % del Total Global:         14.3%
+    Lineas Afectadas:         Línea B
+
+MUDA #7: DEFECTOS
+Descripcion: Produccion de piezas defectuosas, retrabajo, scrap
+Impacto: Retrabajo costoso, devoluciones, perdida de confiabilidad
+
+  Estadisticas:
+    Unidades Desperdiciadas:      75 unidades
+    Horas Perdidas:              3.5 horas
+    Costo Total:              $   1,125.00
+    % del Total Global:          6.2%
+    Lineas Afectadas:         Línea A
+
+MUDA #4: ESPERA
+Descripcion: Tiempo ocioso mientras se espera material, informacion o maquina
+Impacto: Baja utilizacion, incremento de lead time, insatisfaccion operaria
+
+  Estadisticas:
+    Unidades Desperdiciadas:       0 unidades
+    Horas Perdidas:              1.8 horas
+    Costo Total:              $       0.00
+    % del Total Global:          0.0%
+    Lineas Afectadas:         Línea A
+
+MUDA #3: MOVIMIENTO
+Descripcion: Movimientos innecesarios de operarios (buscar herramientas, caminar)
+Impacto: Fatiga operaria, baja productividad, lesiones ocupacionales
+
+  Estadisticas:
+    Unidades Desperdiciadas:       0 unidades
+    Horas Perdidas:              0.8 horas
+    Costo Total:              $       0.00
+    % del Total Global:          0.0%
+    Lineas Afectadas:         Línea B
+
+MUDA #8: TALENTO/HABILIDADES
+Descripcion: Subutilizacion de capacidades y conocimiento del personal
+Impacto: Perdida de innovacion, baja moral, falta de improvement
+
+  Estadisticas:
+    Unidades Desperdiciadas:       0 unidades
+    Horas Perdidas:              0.0 horas
+    Costo Total:              $       0.00
+    % del Total Global:          0.0%
+    Lineas Afectadas:         Línea C
+
+================================================================================
+RESUMEN GLOBAL Y RECOMENDACIONES
+================================================================================
+
+Total de Unidades Desperdiciadas:      965 unidades
+Total de Horas Perdidas:              17.5 horas
+COSTO TOTAL DE DESPERDICIO:         $  18,125.00
+
+COSTO DE DESPERDICIO POR LINEA:
+  Línea A: $   7,875.00
+  Línea B: $   6,400.00
+  Línea C: $   3,850.00
+
+PRIORIDADES DE MEJORA (Top 3 tipos de desperdicio por costo):
+  1. SOBREPRODUCCION - $ 6,750.00
+  2. SOBRE-PROCESAMIENTO - $ 3,850.00
+  3. INVENTARIO - $ 3,800.00
+
+================================================================================
+EVALUACION GENERAL
+================================================================================
+Nivel de Desperdicio: BAJO - MONITOREAR
+Costo Promedio por Linea: $ 6,041.67
+
+NOTA: Estos costos representan pérdidas directas en eficiencia operativa.
+Se recomienda implementar mejoras Lean para reducir el desperdicio.
+================================================================================
