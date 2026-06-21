@@ -44,6 +44,76 @@ Complete improvement project using Six Sigma DMAIC methodology with financial im
 - **Financial Impact:** $23,880 annual savings with 938% ROI (1.2 month payback)
 - **Status:** ✅ COMPLETED - [View Project](./5-Six-Sigma-Integration)
 
+## 🏆 Manufacturing Certifications (2020-2024)
+
+**The Differentiator:** While other data analysts are learning what OEE means, Mario has been implementing it for 30 years. Now he's coding it.
+
+### Certified Professional Achievements:
+
+| Certification | Year | Type | Impact |
+|---|---|---|---|
+| **Six Sigma Green Belt** | 2020 | DMAIC Complete Project | Led full improvement project: Define → Measure → Analyze → Improve → Control |
+| **5S Auditoría** | 2024 | Lean Foundation | Implemented workplace organization and standardization |
+| **VSM (Value Stream Mapping)** | 2024 | System Analysis | Mapped end-to-end production flows and identified waste |
+| **Kaizen Especialista** | 2024 | Continuous Improvement | Specialized training in team-based rapid improvement |
+
+**Status:** ✅ ALL COMPLETED - [View Certifications](./6-Certifications)
+
+### What These Certifications Prove
+
+✅ **Rigorous Training:** Formal certification programs with assessment  
+✅ **Real Application:** Not just theory - actual projects implemented  
+✅ **Documented Results:** Project files showing before/after metrics  
+✅ **Professional Recognition:** Certified by established training bodies  
+✅ **Manufacturing Depth:** 30+ years of practical experience formalized  
+
+### The Green Belt Project - Complete DMAIC Journey
+
+**21 Project Files** demonstrating:
+- Project Charter with business case
+- SIPOC and process mapping
+- Data collection and statistical baseline
+- Root cause analysis (Ishikawa, 5 Whys, FMEA)
+- 5S implementation in production area
+- Control chart verification of improvements
+- Standard operating procedures and sustainability plans
+
+**Each phase (Define-Measure-Analyze-Improve-Control) includes:**
+- Working Excel files with actual analysis
+- Gate Review documentation
+- Professional README explaining concepts
+- Deliverables and business outcomes
+
+---
+
+## 🔗 How It All Connects
+
+**The Rare Combination:**
+
+```
+30 Years Manufacturing Experience
+        ↓
+4 Professional Certifications (5S, VSM, Kaizen, Green Belt)
+        ↓
+Formalized Knowledge with Project Evidence
+        ↓
++ 
+        ↓
+5 Complete Python Analytics Projects
+        ↓
+Modern Data Skills Applied to Real Problems
+        ↓
+= 
+        ↓
+RARE: Manufacturing Engineer + Data Scientist
+```
+
+**What This Means:**
+- Other analysts: "I can analyze your data"
+- Mario: "I understand your processes, can improve them, and code the analysis"
+
+---
+
 ## Technical Skills Demonstrated Across Projects
 
 | Skill | Project | Evidence |
