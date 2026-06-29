@@ -2,7 +2,7 @@
 
 ## ¿Qué es?
 
-**OEE Analyzer** es tu **PRIMER PROYECTO PROFESIONAL** que:
+**OEE Analyzer** es mi **PRIMER PROYECTO PROFESIONAL** que:
 - Lee datos de producción
 - Calcula OEE (Overall Equipment Effectiveness)
 - Analiza 6 Sigma (DPMO, Sigma Level)
@@ -27,18 +27,18 @@ Convertir datos brutos de Excel/CSV en **análisis profesional** usando Python.
 
 ## 🚀 Cómo funciona
 
-### Paso 1: Prepara los datos
-Tu archivo `production_data.csv` tiene formato:
+### Paso 1: Preparar los datos
+El archivo `production_data.csv` tiene formato:
 ```
 fecha,linea,tiempo_total_min,tiempo_parada_min,piezas_producidas,piezas_esperadas,piezas_buenas,defectos
 ```
 
-### Paso 2: Ejecuta el script
+### Paso 2: Ejecutar el script
 ```bash
 python oee_analyzer.py
 ```
 
-### Paso 3: Lee el reporte
+### Paso 3: Leer el reporte
 Se genera automáticamente en `output/reporte_oee.txt`
 
 ## 📊 Ejemplo de Salida
@@ -75,16 +75,14 @@ ANÁLISIS 6 SIGMA:
 ## 🔧 Requisitos
 
 - Python 3.14+
-- Archivo `manufacturing_formulas.py` en carpeta padre
+- Archivo `manufacturing_formulas.py` en carpeta principal
 - Datos en `data/production_data.csv`
 
 ## 📝 Notas
 
-Este es tu **PRIMER PROYECTO REAL**. 
-Demuestra que sabes:
+Este es mi **PRIMER PROYECTO REAL**. 
+He aplicado:
 - Leer datos
 - Procesarlos
 - Usar funciones reutilizables
 - Generar reportes
-
-¡Perfecto para tu portfolio en GitHub! 💪
